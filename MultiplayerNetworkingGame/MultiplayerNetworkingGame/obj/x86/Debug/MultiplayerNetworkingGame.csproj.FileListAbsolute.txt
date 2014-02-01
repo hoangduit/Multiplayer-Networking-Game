@@ -1,0 +1,22 @@
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\Content\Images\bolt.xnb
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\Content\Images\fourblades.xnb
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\Content\Images\background (2).xnb
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\Content\Fonts\Arial.xnb
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\MultiplayerNetworkingGame.exe
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\MultiplayerNetworkingGame.pdb
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\obj\x86\Debug\MultiplayerNetworkingGame.exe
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\obj\x86\Debug\MultiplayerNetworkingGame.pdb
+C:\Users\Clubs\Documents\Visual Studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\Content\Images\bomb.xnb
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\Content\Images\bolt.xnb
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\Content\Images\fourblades.xnb
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\Content\Images\background (2).xnb
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\Content\Images\bomb.xnb
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\Content\Fonts\Arial.xnb
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\MultiplayerNetworkingGame.exe
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\bin\x86\Debug\MultiplayerNetworkingGame.pdb
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\obj\x86\Debug\MultiplayerNetworkingGame.csprojResolveAssemblyReference.cache
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\obj\x86\Debug\MultiplayerNetworkingGame.exe
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGame\obj\x86\Debug\MultiplayerNetworkingGame.pdb

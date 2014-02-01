@@ -1,0 +1,2 @@
+c:\users\clubs\documents\visual studio 2010\Projects\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\CStuff\CalTech\MultiplayerNetworkingGame\MultiplayerNetworkingGame\MultiplayerNetworkingGameContent\obj\x86\Debug\MultiplayerNetworkingGameContent.contentprojResolveAssemblyReference.cache
